@@ -180,7 +180,7 @@ onMount(() => {
     title="About Jerome Andrew K - Cybersecurity Expert Profile"
     description="Learn about Jerome Andrew K's background, expertise in cybersecurity, ethical hacking, penetration testing, and achievements. TryHackMe Legend, HackTheBox Pro Hacker, ML Research."
     keywords="about Jerome Andrew K, cybersecurity profile, ethical hacker bio, penetration tester profile, security researcher, TryHackMe Legend"
-    canonical="https://yourportfolio.com/about"
+    canonical="https://jerome.is-a.dev/about"
 />
 
 <!-- Particle Canvas -->
