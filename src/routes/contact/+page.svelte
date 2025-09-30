@@ -199,7 +199,7 @@ onMount(() => {
     title="Contact Jerome Andrew K - Get In Touch | Cybersecurity Consultant"
     description="Contact Jerome Andrew K for cybersecurity consulting, penetration testing services, collaboration opportunities, or professional inquiries. Available via email, LinkedIn, and social platforms."
     keywords="contact Jerome Andrew K, cybersecurity consultant contact, penetration tester hire, security researcher contact, collaboration inquiry"
-    canonical="https://yourportfolio.com/contact"
+    canonical="https://jerome.is-a.dev/contact"
 />
 
 <canvas bind:this={canvas} class="matrix-bg"></canvas>
