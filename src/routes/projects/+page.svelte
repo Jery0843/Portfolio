@@ -374,7 +374,7 @@ onMount(() => {
     title="Projects - Jerome Andrew K | Cybersecurity Projects & CTF Challenges"
     description="Explore Jerome Andrew K's cybersecurity projects including SecureHive encryption tool, CTF challenges from HackTheBox & TryHackMe, machine learning research, and penetration testing work."
     keywords="cybersecurity projects, CTF writeups, HackTheBox, TryHackMe, SecureHive, ethical hacking projects, penetration testing projects, security tools"
-    canonical="https://yourportfolio.com/projects"
+    canonical="https://jerome.is-a.dev/projects"
 />
 
 <!-- Particle Canvas -->
