@@ -75,7 +75,7 @@ function initMatrix() {
     title="Jerome Andrew K - Cybersecurity Expert & Ethical Hacker | Portfolio"
     description="Welcome to Jerome Andrew K's portfolio. Cybersecurity expert specializing in ethical hacking, penetration testing, network security, and full-stack development. Explore my projects and expertise."
     keywords="Jerome Andrew K, cybersecurity expert, ethical hacker, penetration testing, security researcher, full-stack developer, portfolio, infosec professional"
-    canonical="https://yourportfolio.com"
+    canonical="https://jerome.is-a.dev"
 />
 
 <!-- Structured Data for SEO -->
